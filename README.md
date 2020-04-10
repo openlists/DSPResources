@@ -4,12 +4,12 @@ Open resources for learning and working with digital signal processing (DSP).
 
 ## Table of Contents
 
-- [Guide & Overviews](#guides-and-overviews)
+- [Guides & Collections](#guides-and-collections)
 - [Online Textbooks](#online-textbooks)
 - [Online Courses](#online-courses)
 - [Topics](#topics)
 
-## Guides and Overviews
+## Guides and Collections
 
 ### Seeing Circles, Sines, and Signals
 
@@ -22,6 +22,18 @@ Seeing Circles, Sines, and Signals is an interactive guide and introduction to t
 DSP Guru is a website with some tutorials, guides, and links to other resources.
 
 [Homepage](https://dspguru.com)
+
+### AllSignalProcessing Videos
+
+AllSignalProcessing is a youtube channel, by Professor Barry Van Veen, covering topics across DSP.
+
+[Homepage](https://www.youtube.com/user/allsignalprocessing/)
+
+### Mike X Cohen Videos
+
+Professor Mike X Cohen has a youtube channel, with videos on topics that cover technical topics related to electrophysiological data, often including topics on DSP.
+
+[Homepage](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/)
 
 ## Online Textbooks
 
@@ -38,6 +50,12 @@ An introductory textbook for learning DSP, with associated Python code.
 [Homepage](https://greenteapress.com/wp/think-dsp/) -
 [Github](https://github.com/AllenDowney/ThinkDSP) -
 [Book PDF](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
+
+### Mathematics of the Discrete Fourier Transform
+
+An in depth, mathematically oriented, textbook covering DSP and the mathetatics of Fourier transforms.
+
+[Homepage](https://ccrma.stanford.edu/~jos/mdft/mdft.html)
 
 ## Online Courses
 
