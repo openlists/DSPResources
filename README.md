@@ -4,38 +4,20 @@ Open resources for learning and working with digital signal processing (DSP).
 
 ## Table of Contents
 
-- [Guides and Collections](#guides-and-collections)
-- [Online Textbooks](#online-textbooks)
+- [Online Materials](#online-materials)
+- [Online Videos](#online-videos)
 - [Online Courses](#online-courses)
-- [Topics](#topics)
+- [Individual Topics](#individual-topics)
 
-## Guides and Collections
+## Online Materials
+
+The following are online guides, collections, and textbooks on the topic of DSP. 
 
 ### Seeing Circles, Sines, and Signals
 
-Seeing Circles, Sines, and Signals is an interactive guide and introduction to the core concepts of DSP, including lots of interactive visualizations.
+Seeing Circles, Sines, and Signals, by Jack Schaedler, is an interactive guide to the core concepts of DSP, including lots of interactive visualizations.
 
 [Homepage](https://jackschaedler.github.io/circles-sines-signals/)
-
-### DSP Guru
-
-DSP Guru is a website with some tutorials, guides, and links to other resources.
-
-[Homepage](https://dspguru.com)
-
-### AllSignalProcessing Videos
-
-AllSignalProcessing is a Youtube channel, by Professor Barry Van Veen, covering topics across DSP.
-
-[Homepage](https://www.youtube.com/user/allsignalprocessing/)
-
-### Mike X Cohen Videos
-
-Professor Mike X Cohen has a Youtube channel, with videos on topics that cover technical topics related to electrophysiological data, often including topics on DSP.
-
-[Homepage](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/)
-
-## Online Textbooks
 
 ### The Scientist and Engineers Guide to Digital Signal Processing
 
@@ -43,9 +25,15 @@ This book is a free online textbook for learning DSP, tuned towards scientists &
 
 [Homepage](https://www.dspguide.com/)
 
+### DSP Guru
+
+DSP Guru is a website with tutorials, guides, and links to other resources.
+
+[Homepage](https://dspguru.com)
+
 ### Think DSP
 
-An introductory textbook for learning DSP, with associated Python code.
+An introductory textbook for learning DSP, by Allen Downey, with associated Python code.
 
 [Homepage](https://greenteapress.com/wp/think-dsp/) -
 [Github](https://github.com/AllenDowney/ThinkDSP) -
@@ -57,7 +45,44 @@ An in depth, mathematically oriented, textbook covering DSP and the mathematics 
 
 [Homepage](https://ccrma.stanford.edu/~jos/mdft/mdft.html)
 
+### Tutorials Point
+
+An introductory set of materials on signals and DSP.
+
+[Homepage](https://www.tutorialspoint.com/digital_signal_processing/index.htm)
+
+## Online Videos
+
+The following are collections of online videos related to DSP.
+
+### AllSignalProcessing Videos
+
+AllSignalProcessing is a Youtube channel, by Professor Barry Van Veen, covering topics across DSP.
+
+[Homepage](https://www.youtube.com/user/allsignalprocessing/)
+
+### Mike X Cohen Videos
+
+Professor Mike X Cohen makes videos on technical topics related to electrophysiological data, often including DSP.
+
+[Homepage](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/)
+
+### Tutorial Videos
+
+The following are general tutorial videos on DSP:
+- A [DSP tutorial](https://www.youtube.com/watch?v=SrJq2AzXZME), by Allen Downey, using Python code, presented at PyCon 2018
+- A [brief outline of DSP](https://www.youtube.com/watch?v=WgJMjDh0nLU), by Jim Pytel
+- A [brief video series on Fourier Series](https://www.khanacademy.org/science/electrical-engineering/ee-signals), by Khan Academy
+
+### Lecture Series Playlists
+
+The following are some recorded lecture series on DSP:
+- The [ECSE4530](https://www.youtube.com/watch?v=hVOA8VtKLgk&list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et) course, by Professor Rich Radke
+- The [IIT DSP](https://www.youtube.com/watch?v=6dFnpz_AEyA&list=PL9567DFCA3A66F299) course, by Professor SC Dutta Roy
+
 ## Online Courses
+
+The following are openly available online courses and course materials on the topic of DSP.
 
 ### Neural Signal Processing
 
@@ -65,7 +90,7 @@ An introductory course on DSP for neural signal processing, with materials in Py
 
 [Github](https://github.com/rdgao/COGS118C)
 
-## Topics
+## Individual Topics
 
 The following are resources for specific topics with DSP.
 
@@ -80,8 +105,8 @@ Resources about the Fourier transform:
 
 Resources about filters:
 - An [overview of filters](https://martinos.org/mne/stable/auto_tutorials/discussions/plot_background_filtering.html), from MNE, with Python code
-- An [introduction to filter](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959), from Siemens
-- An [article](https://app.dimensions.ai/details/publication/pub.1019839915) on digital filter design for electrophysiological data (includes open-access link).
+- An [introduction to filters](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959), from Siemens
+- An [article](https://app.dimensions.ai/details/publication/pub.1019839915) on digital filter design for electrophysiological data (includes open-access link)
 
 ### Hilbert Transforms
 
