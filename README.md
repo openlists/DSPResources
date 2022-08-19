@@ -100,6 +100,7 @@ Resources about the Fourier transform:
 - An [interactive guide](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/), by Better Explained
 - An [explainer video](https://www.youtube.com/watch?v=spUNpyF58BY), by 3Blue1Brown
 - A [physical Fourier machine](https://hackaday.com/2014/11/18/harmonic-analyzer-mechanical-fourier-computer/), by engineerguy
+- A [filmed introductory lecture](https://www.youtube.com/watch?v=iTMn0Kt18tg) on the FFT, by MIT OpenCourseWare
 
 ### Filters
 
@@ -107,6 +108,12 @@ Resources about filters:
 - An [overview of filters](https://martinos.org/mne/stable/auto_tutorials/discussions/plot_background_filtering.html), from MNE, with Python code
 - An [introduction to filters](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959), from Siemens
 - An [article](https://app.dimensions.ai/details/publication/pub.1019839915) on digital filter design for electrophysiological data (includes open-access link)
+
+### Wavelets
+
+Resources about wavelets:
+- An [introduction to wavelets](https://www.mathworks.com/help/wavelet/gs/what-is-a-wavelet.html) from MathWorks
+- A [filmed lecture](https://www.youtube.com/watch?v=tMV61BZCrhk) by Ingrid Daubechies on 'wavelet bases: roots, surprises, and applications'
 
 ### Hilbert Transforms
 
